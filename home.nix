@@ -27,9 +27,9 @@
     bat
     quickemu
     nixgl.nixGLIntel
-    nerd-fonts.fira-code #font
-    #iosevka #font
+    #nerd-fonts.fira-code #font
     nerd-fonts.iosevka-term #font
+    nerd-fonts.jetbrains-mono #font
     #alacritty-theme
     #sanctity #diplay terminal colours
   ];

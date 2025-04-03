@@ -7,13 +7,18 @@
 
     settings = {
       font = {
-        # normal.family = "Fira Code NerdFont Mono";  # Choose a clean font
+        # normal.family = "Fira Code NerdFont Mono";
         # bold.family = "Fira Code NerdFont Mono";
         # italic.family = "Fira Code NerdFont Mono";
 
-        normal.family = "IosevkaTerm NerdFont Mono";  # Choose a clean font
-        bold.family = "IosevkaTerm NerdFont Mono";
-        italic.family = "IosevkaTerm NerdFont Mono";        
+        # normal.family = "IosevkaTerm NerdFont Mono";
+        # bold.family = "IosevkaTerm NerdFont Mono";
+        # italic.family = "JetBrainsMono Nerd Font;
+        
+        normal.family = "JetBrainsMono Nerd Font";
+        bold.family = "JetBrainsMono Nerd Font";
+        italic.family = "JetBrainsMono Nerd Font";
+
         size = 12.0;  # Adjust size as needed
       };
 
